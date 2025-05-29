@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ast.h
+vector
+-
+string
+-
+
+/home/tomma/data/c_compiler/src/codegen.cpp
+codegen.h
+/home/tomma/data/c_compiler/src/codegen.h
+ast.h
+/home/tomma/data/c_compiler/src/ast.h
+symbol_table.h
+/home/tomma/data/c_compiler/src/symbol_table.h
+iostream
+-
+vector
+-
+
+/home/tomma/data/c_compiler/src/codegen.h
+string
+-
+ast.h
+/home/tomma/data/c_compiler/src/ast.h
+
+/home/tomma/data/c_compiler/src/symbol_table.h
+string
+-
+unordered_map
+-
+

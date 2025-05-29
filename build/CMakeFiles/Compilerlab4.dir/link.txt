@@ -1,0 +1,1 @@
+/usr/bin/g++-7     CMakeFiles/Compilerlab4.dir/src/main.cpp.o CMakeFiles/Compilerlab4.dir/src/utils.cpp.o CMakeFiles/Compilerlab4.dir/src/codegen.cpp.o CMakeFiles/Compilerlab4.dir/src/symbol_table.cpp.o CMakeFiles/Compilerlab4.dir/lexer.cpp.o CMakeFiles/Compilerlab4.dir/parser.cpp.o  -o Compilerlab4 
